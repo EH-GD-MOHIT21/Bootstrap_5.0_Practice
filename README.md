@@ -4,4 +4,4 @@
 
 <img src="static/bootstrap.jpg">
 
-<footer><h1>Copyright &copy; 2021 Mohit Satija</h1></footer>
+
