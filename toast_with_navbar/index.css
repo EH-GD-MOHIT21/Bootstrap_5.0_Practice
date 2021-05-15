@@ -1,0 +1,13 @@
+.container-fluid .d-flex {
+    float: right;
+}
+
+.navbar-custom {
+    background: rgba(92, 107, 192, 1)
+}
+
+@media (max-width:992px) {
+    .container-fluid .d-flex {
+        width: 100%;
+    }
+}
